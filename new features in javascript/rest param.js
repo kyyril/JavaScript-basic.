@@ -1,3 +1,4 @@
+//rest parameter
 //malas bikin parameter banyak? bisa pakai rest parameter aja
 
 //
